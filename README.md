@@ -4,8 +4,6 @@
 
 <img src="imgs/2024_gcal_overview.png" width="500">
 
-![](imgs/2024_gcal_overview.png)
-
 This notebook was used to write the blog post [A Year in Time: My 2024 Google Calendar Analysis](https://eltsai.github.io/posts/2025/03/gcal-analysis/), which analyzes how I spent my time in 2024 based on my Google Calendar data. The `gcal_analysis_2024.ipynb` etches, processes, and visualizes event data, generating insights on time spent across categories, word clouds, and monthly hour distributions. It can also be adapted for other years.
 
 
