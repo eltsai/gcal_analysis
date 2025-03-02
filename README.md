@@ -2,10 +2,9 @@
 
 ## Overview
 
-This notebook was used to write the blog post [A Year in Time: My 2024 Google Calendar Analysis](https://eltsai.github.io/posts/2025/03/gcal-analysis/), which analyzes how I spent my time in 2024 based on my Google Calendar data. The `gcal_analysis_2024.ipynb` etches, processes, and visualizes event data, generating insights on time spent across categories, word clouds, and monthly hour distributions. It can also be adapted for other years.
 
 <p align="center">
-  <img src="/images/gcal_analysis/2024_gcal_overview.png" 
+  <img src="./images/2024_gcal_overview.png" 
        style="max-width: 50%; 
               width: auto; 
               height: auto; 
@@ -14,19 +13,10 @@ This notebook was used to write the blog post [A Year in Time: My 2024 Google Ca
        alt="My 2024 Google Calendar Overview">
 </p>
 
-I use four major categories of events in my Google Calendar:
 
-- ![#E57373](https://via.placeholder.com/15/E57373/000000?text=+) **Important and Urgent** – Tasks that require immediate attention, such as projects, meetings, or deadlines.
-- ![#7986CB](https://via.placeholder.com/15/7986CB/000000?text=+) **Important and Not Urgent** – Long-term projects, deep work, and research that significantly impact my goals but don’t have immediate deadlines.
-- ![#FBC02D](https://via.placeholder.com/15/FBC02D/000000?text=+) **Not Important and Urgent** – Tasks that feel time-sensitive but aren’t truly meaningful, like administrative work, responding to emails, job applications, and Leetcode.
-- ![#64B5F6](https://via.placeholder.com/15/64B5F6/000000?text=+) **Not Important and Not Urgent** – Activities that are neither urgent nor that important, such as housework, grocery shopping, low-priority work stuff, and Duolingo.
+This notebook was used to write the blog post [A Year in Time: My 2024 Google Calendar Analysis](https://eltsai.github.io/posts/2025/03/gcal-analysis/), which analyzes how I spent my time in 2024 based on my Google Calendar data. The `gcal_analysis_2024.ipynb` etches, processes, and visualizes event data, generating insights on time spent across categories, word clouds, and monthly hour distributions. It can also be adapted for other years.
 
-and a few other categories:
 
-- ![#D32F2F](https://via.placeholder.com/15/D32F2F/000000?text=+) **Life Events** – Mostly used for medical appointments rather than personal milestones.
-- ![#43A047](https://via.placeholder.com/15/43A047/000000?text=+) **Fun Stuff** – Leisure activities, hobbies, and planned social time.
-- ![#388E3C](https://via.placeholder.com/15/388E3C/000000?text=+) **Family** – Dedicated time spent with family members.
-- ![#8E24AA](https://via.placeholder.com/15/8E24AA/000000?text=+) **Exercise** – Workouts and other physical activities.
 
  
 
