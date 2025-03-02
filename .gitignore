@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# my data
+2024_events.json
+credentials.json
+token.pkl
